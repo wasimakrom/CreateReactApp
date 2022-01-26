@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![WhatsApp Image 2022-01-26 at 13 22 52](https://user-images.githubusercontent.com/91275196/151124315-9cdc1168-24a9-4f8f-800f-711cf03ce699.jpeg)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
